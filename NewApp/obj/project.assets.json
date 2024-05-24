@@ -8,11 +8,16 @@
     "net8.0": []
   },
   "packageFolders": {
+<<<<<<< HEAD
     "C:\\Users\\Admin\\.nuget\\packages\\": {}
+=======
+    "C:\\Users\\Acer\\.nuget\\packages\\": {}
+>>>>>>> 83adb41 (CreateProject)
   },
   "project": {
     "version": "1.0.0",
     "restore": {
+<<<<<<< HEAD
       "projectUniqueName": "D:\\PTPMQL\\NewApp\\NewApp.csproj",
       "projectName": "NewApp",
       "projectPath": "D:\\PTPMQL\\NewApp\\NewApp.csproj",
@@ -21,6 +26,16 @@
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config"
+=======
+      "projectUniqueName": "D:\\BTHPTPMQL\\NewApp\\NewApp.csproj",
+      "projectName": "NewApp",
+      "projectPath": "D:\\BTHPTPMQL\\NewApp\\NewApp.csproj",
+      "packagesPath": "C:\\Users\\Acer\\.nuget\\packages\\",
+      "outputPath": "D:\\BTHPTPMQL\\NewApp\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\Acer\\AppData\\Roaming\\NuGet\\NuGet.Config"
+>>>>>>> 83adb41 (CreateProject)
       ],
       "originalTargetFrameworks": [
         "net8.0"

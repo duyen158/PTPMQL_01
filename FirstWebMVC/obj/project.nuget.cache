@@ -1,8 +1,14 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "gB0Ur2vh619NACc0Yqe+t8jRDnFtKvBd+NFLFBD5FrQuZt0BDgyRxGPnoQFJYbmUHH+8trz2i8goRd/pRCgm/w==",
   "success": true,
   "projectFilePath": "D:\\PTPMQL\\FirstWebMVC\\FirstWebMVC.csproj",
+=======
+  "dgSpecHash": "A3LuXUTjUjXWuPq56AN/zPTijrG27X5SusGSRTEkEY252SViiJt+jLk5AKqIiSeLB22Do75F66fKkxfr5i3qfw==",
+  "success": true,
+  "projectFilePath": "D:\\BTHPTPMQL\\FirstWebMVC\\FirstWebMVC.csproj",
+>>>>>>> 83adb41 (CreateProject)
   "expectedPackageFiles": [],
   "logs": []
 }

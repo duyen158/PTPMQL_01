@@ -1,8 +1,14 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "XLmCtYF1XiEnFSFUYSTBqN71UiykpuDQWdttiDbNnCq9Pw7f7MKWpivwE8Y6w/GbLKd6NI5PtJfKjkIm7UzhuQ==",
   "success": true,
   "projectFilePath": "D:\\PTPMQL\\NewApp\\NewApp.csproj",
+=======
+  "dgSpecHash": "xIdqse7/EvHFfTQqnovMgOS09Dz/hCSRBO0yjA80+KFxZ5HmSn88WRErHlJDazr7LbDWAEUo86Cdz0BZWpkypA==",
+  "success": true,
+  "projectFilePath": "D:\\BTHPTPMQL\\NewApp\\NewApp.csproj",
+>>>>>>> 83adb41 (CreateProject)
   "expectedPackageFiles": [],
   "logs": []
 }

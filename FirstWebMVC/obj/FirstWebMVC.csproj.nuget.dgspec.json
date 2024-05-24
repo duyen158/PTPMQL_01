@@ -1,6 +1,7 @@
 {
   "format": 1,
   "restore": {
+<<<<<<< HEAD
     "D:\\PTPMQL\\FirstWebMVC\\FirstWebMVC.csproj": {}
   },
   "projects": {
@@ -15,6 +16,22 @@
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config"
+=======
+    "D:\\BTHPTPMQL\\FirstWebMVC\\FirstWebMVC.csproj": {}
+  },
+  "projects": {
+    "D:\\BTHPTPMQL\\FirstWebMVC\\FirstWebMVC.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\BTHPTPMQL\\FirstWebMVC\\FirstWebMVC.csproj",
+        "projectName": "FirstWebMVC",
+        "projectPath": "D:\\BTHPTPMQL\\FirstWebMVC\\FirstWebMVC.csproj",
+        "packagesPath": "C:\\Users\\Acer\\.nuget\\packages\\",
+        "outputPath": "D:\\BTHPTPMQL\\FirstWebMVC\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Acer\\AppData\\Roaming\\NuGet\\NuGet.Config"
+>>>>>>> 83adb41 (CreateProject)
         ],
         "originalTargetFrameworks": [
           "net8.0"
